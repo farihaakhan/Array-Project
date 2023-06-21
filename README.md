@@ -23,7 +23,7 @@ The code prints the output in a separate output file with the original input as 
 
 **Error Handling:** Because of one of the rules of Matrix, the total number of elements (integers) has to be the same as the product of the row number and column number. I implemented thorough error handling in my code to handle potential exceptions and ensure smooth execution. For instance, I included validation checks to verify the input when processing the input file. If any input doesn't meet the required criteria, appropriate error messages are displayed.
 
-  ``4 4 1 2 3 4 5 6 7 8
+      4 4 1 2 3 4 5 6 7 8
   
 ![image](https://github.com/farihaakhan/Array-Project/assets/30266846/b4746a5c-8de9-43ff-bec2-87ce43c5c550)
 
